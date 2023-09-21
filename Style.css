@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.icone img{
+    width: 150px;
+    height: 150px;
+}
+
+.icone{
+    display: flex;
+    width: 100%;
+   
+}
+
+h1{
+
+    margin-left: 30%;
+    margin-right: 20%;
+    color: red;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.txt{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align:left;
+    font-size:large;
+}
+
+.btn1{
+    color: #ff0000;
+    background-color: #ffffff;
+    border: 3px solid #ff0000;
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn1:hover{
+    background-color: #ff5d5d;
+    color: black;
+    transition: 0.6s;
+}
+
+.btn2{
+    color: #ff0000;
+    background-color: #ffffff;
+    border: 3px solid #ff0000;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.btn2:hover{
+    background-color: #ff5d5d;
+    color: black;
+    transition: 0.6s;
+}
+
+a{
+    text-decoration: none;
+    color: #ff0000;
+
+}
+
+a:hover{
+    color: #000000;
+
+}
+.btn3{
+    color: #ff0000;
+    background-color: #ffffff;
+    border: 3px solid #ff0000;
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn3:hover{
+    background-color: #ff5d5d;
+    color: black;
+    transition: 0.6s;
+}
+
+.imagem{
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+.txt2{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align:left;
+    font-size:large;
+}
+
+.autor{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align:left;
+    font-size:large;
+}
